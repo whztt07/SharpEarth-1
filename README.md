@@ -1,2 +1,2 @@
 # SharpEarth
-SharpEarth is a native port of Nasa's World Wind java mapping toolkit
+SharpEarth is a native C# port of Nasa's World Wind java mapping toolkit.
