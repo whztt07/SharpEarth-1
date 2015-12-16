@@ -1,11 +1,13 @@
 ﻿using System.Windows.Forms;
 using System.Windows.Forms.Integration;
+using MethodTimer;
 using OpenTK;
 using OpenTK.Graphics;
 using OpenTK.Graphics.OpenGL;
 
 namespace SharpEarth.Wpf
 {
+  [Time]
   public class WinFormsGlControl : WindowsFormsHost
   {
     GLControl glControl;
